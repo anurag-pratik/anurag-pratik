@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **more about various JavaScript Frameworks.**
 
-- 👯 I’m looking to collaborate on **Web Based projects which could help me learn something new.**
+- 👥 I’m looking to collaborate on **Web Based projects which could help me learn something new.**
 
 - 📫 Contact me- **anuragpratik8235@gmail.com**
 
