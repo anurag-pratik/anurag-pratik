@@ -3,9 +3,9 @@
   
 - 💻 Currently working as a Software Engineer at <a href="https://highradius.com/" target="blank">HighRadius</a>.
 
-- 💡 Driven by curiosity for tech and love for coding, I’m always exploring the latest trends and tinkering with new tools.
+- 💡 Driven by curiosity for tech and love for coding, always exploring the latest trends and tinkering with new tools.
 
-- 🎧 Away from the keyboard, you’ll find me making music, jamming on my guitar, or just vibing to my playlist.
+- 🎧 Away from the keyboard, you’ll find me making music or vibing to my playlist.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
